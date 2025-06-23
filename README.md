@@ -6,3 +6,25 @@
 ![image](https://github.com/user-attachments/assets/a278afd7-572d-4fac-9588-156ab0657859)
 
 ![image](https://github.com/user-attachments/assets/57695cea-4f61-457b-a1b4-ab4c2db46de9)
+
+
+Размеры
+Длина: 246 мм
+Ширина: 119 мм
+Высота: примерно 18 мм
+ножки для клавиш (резиновые ножки высотой 2 мм и клавиша CFX choc v1)
+
+Part	Quantity	Details	Source
+M2x2 Insert nut	4	2mm length, 3.0mm diameter	
+M2x6 Insert nut	4	6mm length, 3.0mm diameter	
+M2x6 Countersunk screw	4	6mm length	
+M2x8 Countersunk screw	4	8mm length (or 6mm × 8)	
+Feet bumpons	6	8mm diameter, any height.	
+1n4148 diode	36		Aliexpress
+Kailh Choc PG1350 HotSwap Sockets	36		
+Kailh Choc switches	36	PG1350	BUT
+Keycap	36	MBK, CFX or	
+Gamma Omega PCB	2	1.6mm thickness	JLCPCB
+Top case	1	SLA Resin	JLC3DP
+Bottom case	1	SLA Resin	JLC3DP
+Pi Pico USB-C RP2040	1	YD-RP2040 Variants are tested. Info	Aliexpress
